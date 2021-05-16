@@ -1,6 +1,5 @@
 /**
 Author: Bruno Vasconcellos
-USF ID: 93067202
 Description: This program will take a user file as input then it will sort it according to the treatment cost, using a sorting algorithm.
 Moreover, it will use a loop to only select hospitals in the file that have a rating of 3 or more, and that its quality is
 average or better.
